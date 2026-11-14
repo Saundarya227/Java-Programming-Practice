@@ -25,6 +25,10 @@ This repository contains my Java programming experiments and practical implement
 |---|---|---|
 | 01 | Day.java | Java program to find the day of the week using LocalDate and command-line arguments. |
 
+| Experiment | Program | Description |
+|--------|--------|--------|
+| 02 | MatrixOperation.java | Implementation of matrix operations using 2D arrays and nested loops. |
+
 ##  How to Run
 
 Compile the Java program:
