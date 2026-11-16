@@ -29,6 +29,9 @@ This repository contains my Java programming experiments and practical implement
 |--------|--------|--------|
 | 02 | MatrixOperation.java | Implementation of matrix operations using 2D arrays and nested loops. |
 
+Experiment	Program	Description
+03	Employee.java	Employee management using encapsulation, constructors, getters, setters and salary increment.
+
 ##  How to Run
 
 Compile the Java program:
