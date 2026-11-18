@@ -33,6 +33,10 @@ This repository contains my Java programming experiments and practical implement
 |--------|--------|--------|
 | 03 | Employee.java | Employee management using encapsulation, constructors, getters, setters and salary increment. |
 
+| Experiment | Program | Description |
+|--------|--------|--------|
+| 04 | Singleinheritance.java |Demonstration of single inheritance using Room and Bedroom classes. |
+
 
 
 ##  How to Run
