@@ -37,6 +37,9 @@ This repository contains my Java programming experiments and practical implement
 |--------|--------|--------|
 | 04 | Singleinheritance.java |Demonstration of single inheritance using Room and Bedroom classes. |
 
+| Experiment | Program | Description |
+| 05 | EvenOdd.java | Even or Odd Number | Scanner, If-Else, Modulus Operator |
+
 
 
 ##  How to Run
