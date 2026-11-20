@@ -43,7 +43,7 @@ This repository contains my Java programming experiments and practical implement
 
 | Experiment | Program | Description |
 |--------|--------|--------|
-| 06 | AreaInterfaceDemo.java | Area Calculation Using Interface | Interface, Implements, Method Overriding, Polymorphism |
+| 06 | AreaInterfaceDemo.java | Area Calculation Using Interface . Interface, Implements, Method Overriding, Polymorphism |
 
 
 ##  How to Run
